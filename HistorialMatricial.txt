@@ -1,0 +1,31 @@
+Historial Calculadora Matricial
+
+Operación: Suma
+[2.0,2.0]
+[2.0,2.0]
+
+
+Operación: Suma
+[2.0][2.0]
+[2.0][2.0]
+
+Operación: Suma
+[2.0][2.0]
+[2.0][2.0]
+
+Operación: Suma
+[2.0][2.0]
+[2.0][2.0]
+
+Operación: Suma
+[2.0][2.0]
+[2.0][2.0]
+
+Operación: Suma
+[2.0][2.0]
+[2.0][2.0]
+
+Operación: Suma
+[2.0][2.0]
+[2.0][2.0]
+
